@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlurViewDemon</string>
+    <string name="blur_percent_text">模糊度%d</string>
+</resources>
